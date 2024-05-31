@@ -3,11 +3,6 @@ title: purée de piment
 lang: fr
 ---
 
-<!--toc:start-->
-- [Ingrédients](#ingrédients)
-- [Préparation](#préparation)
-<!--toc:end-->
-
 ## Ingrédients
 
 - piments frais (Habanero)
